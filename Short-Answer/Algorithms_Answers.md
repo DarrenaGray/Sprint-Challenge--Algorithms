@@ -2,7 +2,9 @@
 
 ## Exercise I
 
-a)
+a) O(n)
+    While a is less than ***n^3***, ***a*** increases by ***a + n^2*** where n increases linearly 
+
 
 
 b)
